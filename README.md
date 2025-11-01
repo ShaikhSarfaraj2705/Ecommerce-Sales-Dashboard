@@ -1,1 +1,1 @@
-![App Screenshot]("D:\DOWNLOADS\PROJECTS\POWERBI DASHBOARDS\Ecommerce_sales.png")
+![App Screenshot](D:\DOWNLOADS\PROJECTS\POWERBI DASHBOARDS\Ecommerce_sales.png)
